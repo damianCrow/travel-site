@@ -1,0 +1,58 @@
+
+html, body, div {
+    margin: 0;
+    padding: 0;
+}    
+.main-container {
+    margin: 0;
+    padding: 0;
+    width 1200px;
+    height: 600px;
+}
+
+.hidden {
+    display: none;
+    text-decoration: overline;
+}
+
+#header {
+    
+    width: 100%;
+    height: 20%;
+    margin: auto;
+}
+
+#headerImage {
+    margin-left: 17%;
+}
+
+#nav {
+    width: 25%;
+    height: 56.5%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+#map-canvas {
+    background-repeat: no-repeat;
+    width: 74%;
+    height: 65%;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+#sydneyWindowStyle {
+    background-color: red;
+}
+
+.thumbnail {
+    width: 80px;
+    height: 50px;
+}
+
+#footer {
+    width: 100%;
+    height: 40%;
+    clear: both;
+}
